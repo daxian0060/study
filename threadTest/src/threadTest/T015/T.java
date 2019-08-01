@@ -1,6 +1,6 @@
 package threadTest.T015;
 
-public class T {
+public interface T {
  
-  
+	void m1();
 }
